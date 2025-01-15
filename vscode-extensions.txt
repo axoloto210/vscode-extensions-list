@@ -10,6 +10,9 @@ ecmel.vscode-html-css
 esbenp.prettier-vscode
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
+foxundermoon.shell-format
+github.copilot
+github.copilot-chat
 github.vscode-github-actions
 github.vscode-pull-request-github
 gruntfuggly.todo-tree
@@ -32,6 +35,7 @@ prisma.prisma
 ritwickdey.liveserver
 rust-lang.rust-analyzer
 shd101wyy.markdown-preview-enhanced
+timonwong.shellcheck
 tomoki1207.pdf
 unifiedjs.vscode-mdx
 usernamehw.errorlens

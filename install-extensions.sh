@@ -1,4 +1,4 @@
 #!/bin/bash
-while read line; do
+while read -r line; do
 	code --install-extension "$line"
 done < vscode-extensions.txt
